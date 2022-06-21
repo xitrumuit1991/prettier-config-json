@@ -2,7 +2,7 @@
 prettier-config-json
 
 
-# COnfig json file
+## Config json file
 ```javascript
 {
   "trailingComma": "all",
